@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nebulonnova.com/sitemap.xml
